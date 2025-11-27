@@ -14,7 +14,7 @@ void bubble_sort(int arr[], int n) {
 }
 
 int main() {
-    int arr[] = {5, 2, 8, 1, 9};
+    int arr[] = {4, 2};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     bubble_sort(arr, n);
