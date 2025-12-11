@@ -1,0 +1,3 @@
+[submodule "lab9_git/Programming"]
+	path = lab9_git/Programming
+	url = https://github.com/kukushca/Programming.git
