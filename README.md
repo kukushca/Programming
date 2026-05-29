@@ -5,7 +5,6 @@
 ## [8 лабораторная по матрицам и динамической памяти](https://github.com/kukushca/Programming/tree/master/lab8_matrix)
 ## [9 лабораторная по гиту](https://github.com/kukushca/Programming/tree/master/lab9_git)
 ## [10 лабораторная по структурам](https://github.com/kukushca/Programming/tree/master/lab10_struct)
-## [10 лабораторная по структурам](https://github.com/kukushca/Programming/tree/master/lab10_struct)
 ## [11 лабораторная по отладчику](https://github.com/kukushca/Programming/tree/master/Debugger)
 ## [12 лабораторная по многофайловым проектам](https://github.com/kukushca/Programming/tree/master/lab12_multi-file)
 ## [13 лабораторная по системам сборки Make и CMake](https://github.com/kukushca/Programming/tree/master/lab13_cmake)
